@@ -11,3 +11,4 @@ Snail
 Dragonfly
 Fish
 Shark
+Cheetah
