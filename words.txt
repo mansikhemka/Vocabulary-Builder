@@ -4,3 +4,6 @@ Orange
 Cat
 Dog
 Mouse
+Horse
+Donkey
+Crocodile
