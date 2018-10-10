@@ -9,3 +9,5 @@ Donkey
 Crocodile
 Snail
 Dragonfly
+Fish
+Shark
