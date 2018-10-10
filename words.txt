@@ -1,3 +1,6 @@
 Apple
 Banana
 Orange
+Cat
+Dog
+Mouse
