@@ -13,3 +13,4 @@ Fish
 Shark
 Cheetah
 Turtle
+Zebra
