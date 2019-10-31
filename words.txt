@@ -15,3 +15,4 @@ Cheetah
 Turtle
 Zebra
 Toad
+Ostrich
